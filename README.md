@@ -1,5 +1,11 @@
 # Planisphere
 
+This repository is a fork from <a href="https://github.com/drifted-in/planisphere-core">Drifted-In Planisphere Core</a>. We intend to develop Planispheres (star finders) using this code as a base. More details to come.
+
+Discover the Universe contact(s): CJ (cj@discovertheuniverse.ca), Alicia (alicia@discovertheuniverse.ca)
+
+--
+
 A planisphere is a star chart analog computing instrument in the form of two adjustable
 disks that rotate on a common pivot. It can be adjusted to display the visible stars
 for any time and date. It is an instrument to assist in learning how to recognize stars
